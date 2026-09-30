@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Diego Ferreira 👋 / Hello, I'm Diego!
 
-<!--
-**diegofs10/diegofs10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 **Estudante de Informática (Senac)** com foco em desenvolvimento de software, automação e banco de dados.  
+🇺🇸 **IT Student** focused on software development, automation, and database management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Conhecimentos e Tecnologias / Skills & Tech
+- **Linguagens / Languages:** Python, C++ (ESP32 / Microcontroladores)
+- **Banco de Dados / Databases:** SQL, Modelagem e Dicionário de Dados
+- **Hardware & IoT:** Prototipagem de projetos com sensores e placas
+
+---
+
+### 📬 Contato / Connect with me
+- **LinkedIn:** [Diego Ferreira](https://www.linkedin.com/in/diego-ferreira-4b6272144)
